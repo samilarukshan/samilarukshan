@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samila-rukshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samila-rukshan" height="40" width="50" /></a>
 <a href="https://fb.com/rukshan edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rukshan edirisinghe" height="40" width="50" /></a>
-<a href="https://instagram.com/rukshan_edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rukshan_edirisinghe" height="40" width="50" /></a>
+<a href="https://www.instagram.com/rukshan__edirisinghe?igsh=MWZ5eGh4Nnc4NDNteg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rukshan_edirisinghe" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
