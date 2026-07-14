@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Bachelor of Information Technology (BIT).**
 
-- 🧑‍🎓 I’m an Undergraduate at University Of Moratuwa.**
+- 🧑‍🎓 I’m an Undergraduate at University Of Moratuwa.
 
 - 📫 How to reach me **samilarukshan17@gmail.com**
 
