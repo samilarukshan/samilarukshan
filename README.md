@@ -43,7 +43,7 @@
 ------
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2026 Samila Rukshan
+  &copy; 2026 GitHub, Inc.Samila Rukshan
 </div>
 
 ------
